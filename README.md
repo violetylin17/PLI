@@ -33,6 +33,3 @@ This package analyzes atomic-level interactions between proteins and ligands to 
 - Applies the **AutoDock Vina scoring function** to quantify binding affinity.
 - Combines geometric fit and interaction energy to rank ligands.
 
----
-
-## 🧪 Workflow Example
